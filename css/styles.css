@@ -148,9 +148,10 @@ button {
         clip-path: inset(100%);
         clip: rect(0 0 0 0);
         overflow: hidden;
-        margin-bottom: 8px;
 }
-
+.benefits-title {
+    margin-bottom: 8px;
+}
 .benefits-list {
     display: flex;
     gap: 24px;
