@@ -149,9 +149,7 @@ button {
         clip: rect(0 0 0 0);
         overflow: hidden;
 }
-.benefits-title {
-    margin-bottom: 8px;
-}
+
 .benefits-list {
     display: flex;
     gap: 24px;
@@ -167,6 +165,7 @@ button {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 
 .benefits-item-text {
